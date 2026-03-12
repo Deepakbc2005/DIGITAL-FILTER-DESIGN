@@ -88,7 +88,7 @@ Power, timing, area, and gate-level synthesis reports are available in the Synth
 
 📥 **Download Full Report:** 
 
-[FIR Filter Report (PDF)](Project_Report/FIR FILTER.pdf)
+[FIR Filter Report (PDF)](Project_Report/FIRFILTER.pdf)
 
 ---
 
